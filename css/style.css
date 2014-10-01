@@ -71,14 +71,14 @@ ul#countdown span {
 	height: 80px;
 	text-align: center;
 	border-radius: 30em;
-	padding: 29px 23px 16px 22px;
+	padding: 19px 13px 6px 12px;
 	background: #191919;
 	display: inline-block;
 	margin-top: 16px;
 }
 ul#countdown li{
 	display:inline-block;
-	width: 20%;
+	width: 22%;
 }
 ul#countdown li p.timeRefDays,
 ul#countdown li p.timeRefHours,
