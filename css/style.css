@@ -78,7 +78,7 @@ ul#countdown span {
 }
 ul#countdown li{
 	display:inline-block;
-	width: 16%;
+	width: 20%;
 }
 ul#countdown li p.timeRefDays,
 ul#countdown li p.timeRefHours,
